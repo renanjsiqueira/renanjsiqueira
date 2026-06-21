@@ -86,8 +86,8 @@ My work usually involves designing backend services, integrating with internal a
 ## 📫 Contact
 
 - GitHub: [@renanjsiqueira](https://github.com/renanjsiqueira)
-- Email: renan.jangerme.siqueira@gmail.com
-- LinkedIn: [Renan Siqueira](https://www.linkedin.com/in/renanjsiqueira/)
+- Email: contato@renanjsiqueira.online
+- LinkedIn: [Renan Siqueira](https://www.linkedin.com/in/renan-siqueira-95370753/)
 
 ---
 
