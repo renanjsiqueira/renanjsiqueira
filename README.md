@@ -70,14 +70,13 @@ I have experience leading and contributing to backend initiatives in complex fin
 My work usually involves designing backend services, integrating with internal and external platforms, improving system reliability, supporting business-critical flows, and collaborating with cross-functional teams to deliver robust software solutions.
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
 
-![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=renanjsiqueira&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanjsiqueira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&locale=en" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanjsiqueira&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanjsiqueira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=en" />
 
 </div>
 
